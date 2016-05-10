@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+﻿La génération a démarré 08/11/2015 22:45:16.
+     1>Projet "Z:\rendu\cpp_spider\spider\client\client\client.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Command.cpp Core.cpp HandleThreadSocket.cpp main.cpp
+         main.cpp
+         HandleThreadSocket.cpp
+         Core.cpp
+         Command.cpp
+         Génération de code en cours...
+=======
+﻿La génération a démarré 08/11/2015 22:43:45.
+     1>Projet "C:\Users\dewael_a\Documents\cpp_spider\spider\client\client\client.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+>>>>>>> e958cd20417ab05a06cfa8fb4e645da935b3793b
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dewael_a\Documents\cpp_spider\spider\client\x64\Debug\client.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\dewael_a\Documents\cpp_spider\spider\client\x64\Debug\client.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dewael_a\Documents\cpp_spider\spider\client\x64\Debug\client.lib" /MACHINE:X64 x64\Debug\Command.obj
+         x64\Debug\Core.obj
+         x64\Debug\FileLog.obj
+         x64\Debug\HandleHook.obj
+         x64\Debug\HandleThreadSocket.obj
+         x64\Debug\HookerKey.obj
+         x64\Debug\HookerMouse.obj
+         x64\Debug\Input.obj
+         x64\Debug\main.obj
+         x64\Debug\Timer.obj
+         x64\Debug\WMutex.obj
+         x64\Debug\WSocket.obj
+         x64\Debug\WThread.obj
+<<<<<<< HEAD
+     1>WThread.obj : warning LNK4099: PDB 'vc140.pdb' n'a pu Ûtre trouvÚ avec 'WThread.obj' ou sur 'Z:\rendu\cpp_spider\spider\client\x64\Debug\vc140.pdb'á; l'objet sera liÚ sans informations de dÚbogage
+     1>WMutex.obj : warning LNK4099: PDB 'vc140.pdb' n'a pu Ûtre trouvÚ avec 'WMutex.obj' ou sur 'Z:\rendu\cpp_spider\spider\client\x64\Debug\vc140.pdb'á; l'objet sera liÚ sans informations de dÚbogage
+     1>Timer.obj : warning LNK4099: PDB 'vc140.pdb' n'a pu Ûtre trouvÚ avec 'Timer.obj' ou sur 'Z:\rendu\cpp_spider\spider\client\x64\Debug\vc140.pdb'á; l'objet sera liÚ sans informations de dÚbogage
+     1>Input.obj : warning LNK4099: PDB 'vc140.pdb' n'a pu Ûtre trouvÚ avec 'Input.obj' ou sur 'Z:\rendu\cpp_spider\spider\client\x64\Debug\vc140.pdb'á; l'objet sera liÚ sans informations de dÚbogage
+     1>HookerMouse.obj : warning LNK4099: PDB 'vc140.pdb' n'a pu Ûtre trouvÚ avec 'HookerMouse.obj' ou sur 'Z:\rendu\cpp_spider\spider\client\x64\Debug\vc140.pdb'á; l'objet sera liÚ sans informations de dÚbogage
+     1>HookerKey.obj : warning LNK4099: PDB 'vc140.pdb' n'a pu Ûtre trouvÚ avec 'HookerKey.obj' ou sur 'Z:\rendu\cpp_spider\spider\client\x64\Debug\vc140.pdb'á; l'objet sera liÚ sans informations de dÚbogage
+     1>FileLog.obj : warning LNK4099: PDB 'vc140.pdb' n'a pu Ûtre trouvÚ avec 'FileLog.obj' ou sur 'Z:\rendu\cpp_spider\spider\client\x64\Debug\vc140.pdb'á; l'objet sera liÚ sans informations de dÚbogage
+         client.vcxproj -> Z:\rendu\cpp_spider\spider\client\x64\Debug\client.exe
+     1>Génération du projet "Z:\rendu\cpp_spider\spider\client\client\client.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:04.52
+=======
+         client.vcxproj -> C:\Users\dewael_a\Documents\cpp_spider\spider\client\x64\Debug\client.exe
+     1>Génération du projet "C:\Users\dewael_a\Documents\cpp_spider\spider\client\client\client.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.76
+>>>>>>> e958cd20417ab05a06cfa8fb4e645da935b3793b
